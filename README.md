@@ -12,7 +12,7 @@ I noticed that there were fewer browser-based tools available for downloading vi
 
 ## Demo
 
-Try it now [from here](https://hlsdownloader.thetuhin.com/). Please note it only supports [these browsers](https://caniuse.com/sharedarraybuffer).
+Try it now <a href="https://video-downloader-five.vercel.app/">here</a>. Please note it only supports [these browsers](https://caniuse.com/sharedarraybuffer).
 
 ## Roadmap
 
