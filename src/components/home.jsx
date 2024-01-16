@@ -50,13 +50,13 @@ export default function HomePage({ seturl, setheaders }) {
   return (
     <>
       <Layout>
-        <h1 className="text-3xl lg:text-4xl font-bold">HLS Downloader</h1>
+        <h1 className="text-3xl lg:text-4xl font-bold">Camera-Pan Video Downloader</h1>
         <h2 className="mt-2 max-w-xl text-center md:text-base text-sm">
-          Download hls videos in your browser. Enter your{" "}
+          Download videos in your browser. Enter your{" "}
           <code className="border boder-gray-200 bg-gray-100 px-1 rounded-sm">
-            .m3u8
+            file
           </code>{" "}
-          uri to continue.
+          url to continue.
           <br />
           <span className="cursor-pointer underline" onClick={toggleLimitation}>
             See limitations
