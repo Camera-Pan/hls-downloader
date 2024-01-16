@@ -50,7 +50,7 @@ export default function HomePage({ seturl, setheaders }) {
   return (
     <>
       <Layout>
-        <h1 className="text-3xl lg:text-4xl font-bold"><img width="75em" src="https://static.wixstatic.com/media/c938f4_b93a20ee562747a5bed7e1f64045434d~mv2.png"></img><br></br>Camera-Pan Video Downloader</h1>
+        <h1 className="text-3xl lg:text-4xl font-bold"><img width="75em" src="logo.png"></img><br></br>Camera-Pan Video Downloader</h1>
         <h2 className="mt-2 max-w-xl text-center md:text-base text-sm">
           Download videos in your browser. Enter your{" "}
           <code className="border boder-gray-200 bg-gray-100 px-1 rounded-sm">
